@@ -8,7 +8,7 @@ Great to know you are ready for the challenge! ;)
 
 In addition to the steps in [README](../README.md), you will need to:
 
-- [Install Cuda driver](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html) on your server.
+- [Install Cuda driver](https://developer.nvidia.com/cuda-downloads) on your server.
 - [Install nvidia-docker](https://github.com/NVIDIA/nvidia-docker).
 - Run this command in `TheSpaghettiDetective` directory:
 ```
